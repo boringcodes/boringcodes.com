@@ -1,2 +1,2 @@
 # boringcodes.com
-Our Boring Website - @boringcodes
+Our Boring Website
