@@ -13,7 +13,10 @@
       <img src="https://img.shields.io/david/boringcodes/boringcodes.com?style=flat-square">
     </a>
     <a href="https://github.com/boringcodes/boringcodes.com/blob/master/LICENSE" aria-label="License">
-      <img src="https://img.shields.io/github/license/boringcodes/boringcodes.com?style=flat-square">
+      <img src="https://img.shields.io/github/license/boringcodes/boringcodes.com?color=brightgreen&style=flat-square">
+    </a>
+    <a href="https://github.com/boringcodes">
+      <img src="https://img.shields.io/badge/github-@boringcodes-brightgreen?style=flat-square">
     </a>
   </div>
 </div>
