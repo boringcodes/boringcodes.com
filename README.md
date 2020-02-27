@@ -3,20 +3,20 @@
   <p>Our Boring Website</p>
   
   <div>
-    <a href="https://github.com/boringcodes/boringcodes.com" aria-label="Commitizen Friendly">
+    <a href="https://github.com/boringcodes/boringcodes.com/commits" aria-label="Commitizen Friendly">
       <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
     </a>
     <a href="https://app.netlify.com/sites/boringcodes/deploys" aria-label="Netlify Deploy Status">
       <img src="https://img.shields.io/netlify/26f56edb-69c0-46af-b5f3-8329d7867f10?style=flat-square">
     </a>
-    <a href="https://github.com/boringcodes/boringcodes.com" aria-label="Dependencies Status">
+    <a href="https://david-dm.org/boringcodes/boringcodes.com" aria-label="Dependencies Status">
       <img src="https://img.shields.io/david/boringcodes/boringcodes.com?style=flat-square">
     </a>
     <a href="https://github.com/boringcodes/boringcodes.com/blob/master/LICENSE" aria-label="License">
       <img src="https://img.shields.io/github/license/boringcodes/boringcodes.com?color=brightgreen&style=flat-square">
     </a>
     <a href="https://github.com/boringcodes">
-      <img src="https://img.shields.io/badge/github-@boringcodes-brightgreen?style=flat-square">
+      <img src="https://img.shields.io/badge/boringcodes-verified-brightgreen?style=flat-square">
     </a>
   </div>
 </div>
